@@ -1,0 +1,20 @@
+# bag파일 무시
+*.bag
+*.bag.active
+*.avi
+*.mov
+*.mp4
+*.wmv
+*.mkv
+*.jpg 
+*.backup
+
+# weights파일
+*.weights
+
+# build, devel
+build/
+
+
+# vscode
+.vscode/
